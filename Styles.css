@@ -1,7 +1,7 @@
 @charset "utf-8";
 
 body 	{
-			background-color: #F09AEC;
+			background-color: #808080;
 			text-decoration-color: #121212;
 			}
 	
@@ -51,21 +51,21 @@ body 	{
 			
 	a:link 	{
 			text-decoration: none;
-			background-color: #b8a1db;
+			background-color: #3FE494;
 			width: 150px;
-			color: #6CE7CF;
+			color: #F7F7F7;
 			}
 	
 	a:visited {
 			 	text-decoration: none;
-				color: #6CE7CF;
+				color: #F7F7F7;
 			  }
 	
 	a:hover {
 			text-decoration: underline;
-			background-color:#b8a1db;
+			background-color:#000000;
 			width: 150px;
-			color: white;
+			color: #3FE494;
 			}
 	
 	a:active {
@@ -139,8 +139,8 @@ body 	{
 .dropdown-content	{	
 					display: none;
 					position: absolute;
-					background-color: #f9f9f9;
-					color: #6CE7CF;
+					background-color: #3FE494;
+					color: #EAEAEA;
 					min-width: 100px;
 					box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
 					z-index: 1;
@@ -148,7 +148,7 @@ body 	{
 
 .dropdown-content a {
 					float: none;
-					color: #6CE7CF;
+					color: #FAFAFA;
 					padding: 12px 16px;
 					text-decoration: none;
 					display: block;
