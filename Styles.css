@@ -37,14 +37,16 @@ body 	{
 			margin: 0px;
 			padding: 0px;
 			overflow: hidden;
+			height: 120px;
 			}
 
 	li a 	{
 			display: inline;
 			float: left;
 			padding-left: 45px;
-			padding-right: 45px;
+			padding-right: 54px;
 			padding-top: 50px;
+			padding-bottom: 50px;
 			text-align: center;
 			text-decoration: none; 
 			}
